@@ -17,6 +17,14 @@
   border: none;
   border-radius: 6px;
 }
+.off-btn{
+  background-color: rgb(59, 70, 77);
+  color: white;
+}
+.on-btn{
+  background-color: rgb(59, 70, 77);
+  color: white;
+}
 
 
 .btn:hover {
